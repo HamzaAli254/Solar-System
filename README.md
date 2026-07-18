@@ -1,4 +1,4 @@
-# Solar-System
+<img width="352" height="353" alt="image" src="https://github.com/user-attachments/assets/273d6bc6-54aa-409f-8907-5547b06cfcf8" /># Solar-System
 Solar System is a simple and academic website that explains all components of the solar system and the outer solar system for kids in a simple way with a short paragraph, some facts about the planets and belts like: Type, Diameter, Distance from the Sun, Location, Day Length, Year Length, Average Temperature, Gravity, Number of moons, Atmosphere, and a Fun Fact.
 # The Structure of the Website
 •	22 HTML files
@@ -17,5 +17,9 @@ Solar System is a simple and academic website that explains all components of th
 6. Dwarf Planets
 7. Scattered Disc
 8. Oort Cloud
+
+# Links
+Demo: https://hamzaali254.github.io/Solar-System/
+GitHub Repository:
 
 #This project was created for the #beest program to teach kids the solar system and demonstrate my HTML and CSS web development skills.
