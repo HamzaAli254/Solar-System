@@ -24,3 +24,6 @@ Demo: https://hamzaali254.github.io/Solar-System/
 GitHub Repository: https://github.com/HamzaAli254/Solar-System/tree/main
 
 #This project was created for the #beest program to teach kids the solar system and demonstrate my HTML and CSS web development skills.
+
+# Screenshots
+![Home Page](image.png)
