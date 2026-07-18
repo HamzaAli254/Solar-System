@@ -27,3 +27,4 @@ GitHub Repository: https://github.com/HamzaAli254/Solar-System/tree/main
 
 # Screenshots
 ![Home Page](image.png)
+![QR Section](QR.png)
