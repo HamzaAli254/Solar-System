@@ -17,4 +17,4 @@ Solar System is a simple and academic website that explains all components of th
 6. Dwarf Planets
 7. Scattered Disc
 8. Oort Cloud
-This project was created for the #beest program to teach kids the solar system and demonstrate my HTML and CSS web development skills.
+#This project was created for the #beest program to teach kids the solar system and demonstrate my HTML and CSS web development skills.
