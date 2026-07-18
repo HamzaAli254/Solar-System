@@ -1,0 +1,108 @@
+html{
+    scroll-behavior: smooth;
+}
+/*body*/
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+/*header*/
+header{
+    text-align: center;
+    padding: 30px 0;
+    background-color: rgba(5, 8, 22, 0.9);
+    border: 4px solid white;
+    border-radius: 10px;
+}
+header h1{
+    color: white;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+header img{
+    width: 180px;
+}
+/*content*/
+.about{
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
+    padding: 40px;
+    background-color: rgba(5, 8, 22, 0.9);
+    border: 5px solid white;
+    border-radius: 20px;
+}
+/*title*/
+.title{
+    font-size: 3rem;
+    color: white;
+    margin-bottom: 25px;
+}
+/*planet image*/
+.image{
+    width: 350px;
+    margin: 20px 0px;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+/*desc*/
+.description{
+    width: 70%;
+    margin: auto;
+    font-size: 20px;
+    line-height: 1.8;
+    color: white;
+}
+/*nav explore*/
+.nav{
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    width: 100%;
+    margin: auto;
+}
+/*facts*/
+.data{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    margin-top: 40px;
+}
+/*explore btn*/
+.explore{
+    margin-top: 35px;
+}
+/*prev & next*/
+.move{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 80px auto 30px;
+}
+/*home btnn*/
+.home{
+    text-align: center;
+    margin-bottom: 40px;
+}
+/*btn function*/
+.btn{
+    display: inline-block;
+    padding: 10px 30px;
+    background-color: #3b82f6;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+.btn:hover{
+    background-color: #2161ec;
+    transform: translateY(-5px);
+    transform: scale(1.1);
+}
